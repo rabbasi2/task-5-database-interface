@@ -32,13 +32,13 @@ if [ "yes" = "$var3" ]; then
 read number
  if [ ! -e team-1.csv ]; then
   touch team-1.csv
-    var3=Name,pets,siblings,pokemon,number
+    var3="Name, Pets, Siblings, Mac/PC, Pokemon Go, Caught, Time"
 now=$(date)
 var="$name, $pets, $siblings, $comp, $pokemon, $number"
 echo "$var3" > team-1.csv
 echo "$var, $now" >> team-1.csv
  else 
- var3=Name,pets,siblings,pokemon,number
+var3="Name, Pets, Siblings, Mac/PC, Pokemon Go, Caught, Time"
  now=$(date)
 var="$name, $pets, $siblings, $comp, $pokemon, $number"
 echo "$var3" > team-1.csv

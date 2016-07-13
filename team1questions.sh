@@ -39,5 +39,8 @@ var="$name, $pets, $siblings, $comp, $pokemon, NA"
 echo "$var, $now" >> team1.csv
 fi
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 56a3e55b73f45fb06189fda7cf69651c980f047d
