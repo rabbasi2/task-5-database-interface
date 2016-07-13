@@ -39,4 +39,6 @@ var="$name, $pets, $siblings, $comp, $pokemon, NA"
 echo "$var, $now" >> team1.csv
 fi
 
-
+git add team1.csv
+git commit -m "updated team1csv"
+git push
