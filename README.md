@@ -1,4 +1,4 @@
-# Task #4 - Create data
+# Task #5 - Database interface
 
 This assignment aims at further strengthening our scripting skills and working more closely with a database.
 
