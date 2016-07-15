@@ -25,15 +25,28 @@ You will need Bash, text files, and MySQL, all of which are available in CodeAny
 
 You will need to do the following for this assignment to be considered complete. 
 
-*As a team:*
+### As a team:
 
-1. Make a branch with an archived version of your first questionnaire script.
-2. Create a database that has the appropriate variables and variable types (this might be an accessory script or a conditional statement in your script)
-3. Modify your script to do the following:
+1. Decide who will do what tasks (e.g. - manage main files, look for information online about scripting MySQL, write scripts, test scripts, etc.)
+2. Designate a member of the team that will hold your main repo: the repo czar.
+
+### Designated repository czar:
+ 
+1. Fork this repo: <https://github.com/jdmar3/task-5-database-interface>.
+2. Add the rest of your team as contributors.
+
+### As a team:
+
+1. Place your original script and .csv files from assignment 4 in this repository. 
+2. Make a branch with an archived version of your first questionnaire script.
+3. Switch back into the master branch to work on this assignment.
+4. Create a database that has the appropriate variables and variable types (this might be an accessory script or a conditional statement in your script).
+5. Modify your script to do the following:
   - connect to a MySQL database (HINT: this will involve setting variables for MySQL username, password, and location)
   - enter the data input by users into a MySQL database 
   - dump the MySQL database into a .sql file in your repository directory with the rest of your files after it has been modified with nex data
 
-*Individually:*
+### Individually:
 
-1. Write a blog post that links to your fork of your team's repository. 
+1. Sync your repository fork with the main fork at the end of the work.
+2. Write a blog post that links to your fork of the repository and write a brief explanation of what your scripts actually do. 
