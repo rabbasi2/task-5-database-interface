@@ -48,5 +48,5 @@ You will need to do the following for this assignment to be considered complete.
 
 ### Individually:
 
-1. Sync your repository fork with the main fork at the end of the work.
+1. Sync your repository fork with the main fork at the end of the work (Look here for how to do this: <https://help.github.com/articles/syncing-a-fork/>).
 2. Write a blog post that links to your fork of the repository and write a brief explanation of what your scripts actually do. 
